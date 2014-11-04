@@ -17,7 +17,7 @@
 		 						  $productos = array(
 									"id" => "1",
 									"descripcion" =>"galletas",
-									"precio" =>"8",
+									"precio" =>"8", 
 									
 									"id1" => "2",
 									"descripcion1" =>"Helado",
@@ -69,6 +69,7 @@
 			 </th> 
                          <th>                                  
                          </th>
+	
                          </tr>
 						
 				
